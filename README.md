@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alperen.
-- I’m interested in Databases, OS (Linux dist. & Windows), Python, c#
-- 🌱 I’m currently learning Web Development with C# and Python. (ASP .Net & Django)
+- My profession is Cyber Security. Besides, I’m interested in Databases, OS (Linux dist. & Windows), Python, C#
+- 🌱 I developed Web Site with C# and Python. (ASP .Net & Django)
 - 📫 How to reach me : https://www.linkedin.com/in/alperenyoz/
 
 <!---
