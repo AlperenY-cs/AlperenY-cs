@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alperen.
-- 🌱 My profession is Cyber Security. Besides, I’m interested in Databases, OS (Linux dist. & Windows), Python, C#
+- 🌱 My profession is Cyber Security. I’m interested in Penetration Tests, Bug Bounty 
 - 📫 How to reach me : https://www.linkedin.com/in/alperenyoz/
 
 <!---
