@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alperen.
-- 🌱 My profession is Cyber Security. I’m interested in Penetration Tests, Bug Bounty 
+- 🌱 My profession is Cyber Security. I’m interested in Penetration Tests
 - 📫 How to reach me : https://www.linkedin.com/in/alperenyoz/
 
 <!---
