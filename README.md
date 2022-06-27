@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Alperen.
-- 🌱 My profession is Cyber Security. I’m interested in Penetration Tests
+print("Hello friends")
 
 <!---
 AlperenY-cs/AlperenY-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
