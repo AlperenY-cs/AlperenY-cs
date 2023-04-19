@@ -1,7 +1,3 @@
-print("Hello friends")
+***Penetration Tester***
 
-
-<!---
-AlperenY-cs/AlperenY-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Keep calm and hack the planet
