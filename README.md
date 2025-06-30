@@ -1,6 +1,6 @@
  
 
-### <div align="center">Alperen - Cyber Security Specialist | Software Developer</div>  
+### <div align="center">Alperen - Application Security Specialist | Penetration Tester | Software Developer</div>  
   
 
 - ⚡Working on Rapplex - Web Application Security Scanner  
